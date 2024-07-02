@@ -1,3 +1,3 @@
 a=10
 b=20
-print(f"Sum is = {b-a}")
+print(f"Diff is = {b-a}")
